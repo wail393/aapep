@@ -1,0 +1,10 @@
+{
+  "name": "Remix Congrès National AAPEP",
+  "description": "Application officielle du Congrès National de l\u0027AAPEP - Psychiatrie Libérale : Défis et Actualités",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
